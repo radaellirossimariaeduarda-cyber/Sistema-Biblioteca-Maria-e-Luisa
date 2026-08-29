@@ -16,7 +16,7 @@ Os principais conceitos implementados são:
 *   Persistência de dados em arquivos (Binários e Texto)
 *   Arquitetura de Software (Padrão MVC)
 ## Link do Repositório
-*   GitHub: [[INSIRA AQUI O LINK DO REPOSITÓRIO](https://github.com)]
+*   GitHub: [https://github.com/radaellirossimariaeduarda-cyber/Sistema-Biblioteca-Maria-e-Luisa/blob/main/README.md]
 ## Arquitetura do Sistema (MVC)
 O projeto está dividido de acordo com a responsabilidade de cada camada do padrão **MVC**:
 ### Model (Modelagem dos Dados)
