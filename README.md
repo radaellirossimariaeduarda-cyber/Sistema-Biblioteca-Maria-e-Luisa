@@ -118,6 +118,3 @@ Ao iniciar a aplicação, as seguintes opções estarão disponíveis no termina
 | **Exceções Customizadas** | Tratamento com `try/catch` centralizado |
 | **Arquivo Binário** | Armazenamento de estado em `.dat` |
 | **Arquivo Texto** | Geração de relatório legível em `.txt` |
-## Observações Finais importantes
-*   **Validação em Grupo:** Antes da entrega final, faça uma revisão completa para confirmar se todos os integrantes utilizaram exatamente as mesmas assinaturas de pacotes, métodos e arquivos na hora do merge.
-*   **Histórico de Empréstimos:** Avalie a necessidade de também serializar a coleção de empréstimos caso o professor exija a persistência de histórico transacional completo após reiniciar a aplicação.
