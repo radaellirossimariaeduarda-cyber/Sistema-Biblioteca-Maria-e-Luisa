@@ -1,0 +1,28 @@
+        BIBLIOTECA ERA UMA VEZ
+
+LIVROS
+
+Código: 1
+Título: Quarta Asa
+Autor: Rebecca Yarros
+Gênero: Fantasia
+Ano: 2024
+Disponível: true
+
+
+LEITORES
+
+ID: 1
+Nome: Maria
+CPF: 02345826589
+Quantidade de livros: 0
+
+
+EMPRÉSTIMOS
+Empréstimo: 1
+Livro: Quarta Asa
+Leitor: Maria
+Data Empréstimo: 2026-08-10
+Data Devolução: 2026-08-17
+Devolvido: true
+
